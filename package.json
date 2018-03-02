@@ -1,0 +1,29 @@
+{
+  "name": "onepiece_characters",
+  "version": "1.0.0",
+  "description": "Provide brief information on one piece anime charatcers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node sever/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit-developer0712/onepiece_characters.git"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit-developer0712/onepiece_characters/issues"
+  },
+  "homepage": "https://github.com/sumit-developer0712/onepiece_characters#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.15.0",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^4.1.0"
+  }
+}
